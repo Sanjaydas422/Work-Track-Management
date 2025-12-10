@@ -2,3 +2,9 @@ venv/
 env/
 *.pyc
 __pycache__/
+"venv/" 
+".venv/" 
+"__pycache__/" 
+"*.pyc" 
+".idea/" 
+"db.sqlite3" 
