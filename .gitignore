@@ -1,10 +1,17 @@
 venv/
 env/
-*.pyc
+.venv/
 __pycache__/
-"venv/" 
-".venv/" 
-"__pycache__/" 
-"*.pyc" 
-".idea/" 
-"db.sqlite3" 
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.idea/
+
+# OS files
+.DS_Store
+
+# Django local files
+db.sqlite3
+media/
