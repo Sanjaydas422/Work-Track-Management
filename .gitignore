@@ -5,13 +5,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
-# IDE
 .idea/
-
-# OS files
 .DS_Store
-
-# Django local files
 db.sqlite3
 media/
